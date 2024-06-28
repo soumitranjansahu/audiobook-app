@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>488445525388-v0cl4sci75v0dt3pbqhc9o1k2ia6rlv6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.488445525388-v0cl4sci75v0dt3pbqhc9o1k2ia6rlv6</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>488445525388-1p46h96tisl090l2peurqntii84eth2f.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCstNwF_Au5VTBDvwABAD1xscmoU3unVQI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>488445525388</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mywave.audiobook</string>
+	<key>PROJECT_ID</key>
+	<string>wave-audiobook-uuwb9j</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wave-audiobook-uuwb9j.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:488445525388:ios:4129e15f8f7bab79652aa9</string>
+	<key>DATABASE_URL</key>
+	<string>https://wave-audiobook-uuwb9j-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

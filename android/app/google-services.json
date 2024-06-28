@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "488445525388",
+    "firebase_url": "https://wave-audiobook-uuwb9j-default-rtdb.firebaseio.com",
+    "project_id": "wave-audiobook-uuwb9j",
+    "storage_bucket": "wave-audiobook-uuwb9j.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488445525388:android:e7636b8a921a70af652aa9",
+        "android_client_info": {
+          "package_name": "com.mywave.audiobook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488445525388-var2nl0tdfveccbk5j6rj1mhf8f79dui.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mywave.audiobook",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "488445525388-iqnnivq04ejflan2n85gfjqk22d39fvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsHx-_AnuvPNXKU75ronByPrL6Hjy7l0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488445525388-iqnnivq04ejflan2n85gfjqk22d39fvr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "488445525388-bj1nh6eaeoorfdlao09v55jabh3b11gq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.waveadmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488445525388:android:cb6b2eca11fd9701652aa9",
+        "android_client_info": {
+          "package_name": "com.mywave.audiobookadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488445525388-hune92lh4sk8tvudfkt39g2n6coac7m2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mywave.audiobookadmin",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "488445525388-iqnnivq04ejflan2n85gfjqk22d39fvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsHx-_AnuvPNXKU75ronByPrL6Hjy7l0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488445525388-iqnnivq04ejflan2n85gfjqk22d39fvr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "488445525388-bj1nh6eaeoorfdlao09v55jabh3b11gq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.waveadmin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
